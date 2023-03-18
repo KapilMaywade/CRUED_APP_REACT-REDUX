@@ -1,0 +1,26 @@
+#products_display{
+    margin-top:50px;
+}
+
+#main_container{
+    display: flex;
+    justify-content: space-between;
+}
+
+#product_container{
+   width:75%;
+   height:4000px;
+   border: 0px solid  black;
+   text-align: left;
+   margin: auto;
+}
+
+#cart_btn, #buy_btn{
+    border: 1px solid  black;
+}
+
+#sidebar{
+    width:20%;
+    height: 1000px;
+    border: 1px solid  black;
+ }
